@@ -468,7 +468,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .breadcrumb-bg {
-  background-image: url(../img/slide_04.png);
+  background-image: url(../img/slide_04.jpg);
 }
 
 .breadcrumb-text p {
@@ -1351,7 +1351,7 @@ a.mobile-show.search-bar-icon:hover {
 
 ----------------------------------------------------------------------------- */
 .hero-bg {
-  background-image: url(../img/slide_01.png);
+  background-image: url(../img/slide_01.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1458,15 +1458,15 @@ input[type="submit"] {
 }
 
 .homepage-bg-1 {
-  background-image: url(../img/slide_01.png);
+  background-image: url(../img/slide_01.jpg);
 }
 
 .homepage-bg-2 {
-  background-image: url(../img/slide_02.png);
+  background-image: url(../img/slide_02.jpg);
 }
 
 .homepage-bg-3 {
-  background-image: url(../img/slide_03.png);
+  background-image: url(../img/slide_03.jpg);
 }
 
 .homepage-slider {
@@ -1580,27 +1580,27 @@ div.owl-controls, .owl-controls div {
 
 ----------------------------------------------------------------------------- */
 .news-bg-1 {
-  background-image: url(../img/latest-news/slide_09.png);
+  background-image: url(../img/latest-news/slide_09.jpg);
 }
 
 .news-bg-2 {
-  background-image: url(../img/latest-news/slide_06.png);
+  background-image: url(../img/latest-news/slide_06.jpg);
 }
 
 .news-bg-3 {
-  background-image: url(../img/latest-news/slide_04.png);
+  background-image: url(../img/latest-news/slide_04.jpg);
 }
 
 .news-bg-4 {
-  background-image: url(../img/latest-news/slide_08.png);
+  background-image: url(../img/latest-news/slide_08.jpg);
 }
 
 .news-bg-5 {
-  background-image: url(../img/latest-news/slide_10.png);
+  background-image: url(../img/latest-news/slide_10.jpg);
 }
 
 .news-bg-6 {
-  background-image: url(../img/latest-news/slide_02.png);
+  background-image: url(../img/latest-news/slide_02.jpg);
 }
 
 .latest-news-bg {
@@ -2055,7 +2055,7 @@ a.video-play-btn {
 }
 
 .abt-bg {
-  background-image: url(../img/slide_04.png);
+  background-image: url(../img/slide_04.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -2106,7 +2106,7 @@ a.video-play-btn {
 .shop-banner {
   position: relative;
   background-color: #d4af37;
-  background-image: url(../img/slide_06.png);
+  background-image: url(../img/slide_06.jpg);
   background-size: cover;
   padding: 110px 0px 115px;
 }
@@ -2134,7 +2134,7 @@ a.video-play-btn {
   text-align: center;
   margin-right: 10px;
   display: inline-block;
-}  .shop-banner-2 {  position: bottom;  background-color: #d4af37;  background-image: url(../img/slide_09.png);  background-size: cover;  padding: 110px 0px 115px;}.shop-banner-2 h3 {  position: relative;  font-size: 50px;  line-height: 1.2em;  margin-bottom: 0px;}.shop-banner-2 .sale-percent {  position: relative;  font-size: 60px;  font-weight: 700;  color: #8c0e0f;}.shop-banner-2 .sale-percent span {  position: relative;  font-size: 24px;  line-height: 1.1em;  color: #0b2838;  font-weight: 400;  text-align: center;  margin-right: 10px;  display: inline-block;}
+}  .shop-banner-2 {  position: bottom;  background-color: #d4af37;  background-image: url(../img/slide_09.jpg);  background-size: cover;  padding: 110px 0px 115px;}.shop-banner-2 h3 {  position: relative;  font-size: 50px;  line-height: 1.2em;  margin-bottom: 0px;}.shop-banner-2 .sale-percent {  position: relative;  font-size: 60px;  font-weight: 700;  color: #8c0e0f;}.shop-banner-2 .sale-percent span {  position: relative;  font-size: 24px;  line-height: 1.1em;  color: #0b2838;  font-weight: 400;  text-align: center;  margin-right: 10px;  display: inline-block;}
 
 /* -----------------------------------------------------------------------------
 
@@ -2147,7 +2147,7 @@ a.video-play-btn {
 }
 
 .feature-bg:after {
-  background-image: url(../img/slide_07.png);
+  background-image: url(../img/slide_07.jpg);
   position: absolute;
   right: 0;
   top: 0;
