@@ -140,7 +140,7 @@
 								<p class="subtitle">See where we'll be!</p>
 								<h1>Upcoming Markets</h1>
 								<div class="hero-btns">
-									<a href="shop.html" class="boxed-btn">Markets</a>
+									<a href="markets.html" class="boxed-btn">Markets</a>
 									<a href="contact.html" class="bordered-btn">Contact Us</a>
 								</div>
 							</div>
@@ -219,7 +219,7 @@
                 <!--Content Column-->
                 <div class="content-column col-lg-6">
 					<h3><span class="orange-text">Website</span> Launch</h3>
-                    <h4>August 1st, 2023</h4>
+                    <h4>January 13th, 2024</h4>
                     <div class="text">Stay tuned for when we launch our website!</div>
                     <!--Countdown Timer-->
                     <div class="time-counter"><div class="time-countdown clearfix" data-countdown="2023/08/01"><div class="counter-column"><div class="inner"><span class="count">00</span>Days</div></div> <div class="counter-column"><div class="inner"><span class="count">00</span>Hours</div></div>  <div class="counter-column"><div class="inner"><span class="count">00</span>Mins</div></div>  <div class="counter-column"><div class="inner"><span class="count">00</span>Secs</div></div></div></div>
