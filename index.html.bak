@@ -80,8 +80,6 @@
 								</li>
 							</ul>
 						</nav>
-						<a class="mobile-show search-bar-icon" href="#"><i class="fas fa-search"></i></a>
-						<div class="mobile-menu"></div>
 						<!-- menu end -->
 					</div>
 				</div>
@@ -246,47 +244,11 @@
 				<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="antique-library.html"><img src="assets/img/products/Antique Library.jpg" alt=""></a>
+							<a href="antique-books.html"><img src="assets/img/products/Antique Books.jpg" alt=""></a>
 						</div>
-						<a href="antique-library.html"><h3>Antique Library</h3></a>
-						<p class="product-price">$6 - $20</p>
-						<center><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="MFYXP9L32SN9S">
-						<table>
-						<tr><td><h5><input type="hidden" name="on0" value="Candle Size">Candle Size</h5></td></tr><tr><td><select name="os0">
-							<option value="4oz">4oz Gold Tin - $6.00 USD</option>
-							<option value="7oz">7oz Amber Glass Jar - $10.00 USD</option>
-							<option value="14oz">14oz Amber Glass Jar - $20.00 USD</option>
-						</select> </td></tr>
-						</table><!--
-						<input type="hidden" name="currency_code" value="USD"><br>
-						<input type="image" src="assets/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form></center> -->
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 text-center">
-					<div class="single-product-item">
-						<div class="product-image">
-							<a href="black-sea.html"><img src="assets/img/products/Black Sea.jpg" alt=""></a>
-						</div>
-						<a href="black-sea.html"><h3>Black Sea</h3></a>
-						<p class="product-price">$6 - $20</p>
-						<center><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="MFYXP9L32SN9S">
-						<table>
-						<tr><td><h5><input type="hidden" name="on0" value="Candle Size">Candle Size</h5></td></tr><tr><td><select name="os0">
-							<option value="4oz">4oz Gold Tin - $6.00 USD</option>
-							<option value="7oz">7oz Amber Glass Jar - $10.00 USD</option>
-							<option value="14oz">14oz Amber Glass Jar - $20.00 USD</option>
-						</select> </td></tr>
-						</table><!--
-						<input type="hidden" name="currency_code" value="USD"><br>
-						<input type="image" src="assets/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form></center> -->
+						<a href="antique-books.html"><h3>Antique Books</h3></a>
+						<p class="product-price">$7 - $20</p>
+						<a href="antique-books.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 text-center">
@@ -295,21 +257,18 @@
 							<a href="lemon-pound-cake.html"><img src="assets/img/products/Lemon Pound Cake.jpg" alt=""></a>
 						</div>
 						<a href="lemon-pound-cake.html"><h3>Lemon Pound Cake</h3></a>
-						<p class="product-price">$6 - $20</p>
-						<center><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="MFYXP9L32SN9S">
-						<table>
-						<tr><td><h5><input type="hidden" name="on0" value="Candle Size">Candle Size</h5></td></tr><tr><td><select name="os0">
-							<option value="4oz">4oz Gold Tin - $6.00 USD</option>
-							<option value="7oz">7oz Amber Glass Jar - $10.00 USD</option>
-							<option value="14oz">14oz Amber Glass Jar - $20.00 USD</option>
-						</select> </td></tr>
-						</table><!--
-						<input type="hidden" name="currency_code" value="USD"><br>
-						<input type="image" src="assets/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form></center> -->
+						<p class="product-price">$7 - $20</p>
+						<a href="lemon-pound-cake.html" class="boxed-btn">View Product</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 text-center">
+					<div class="single-product-item">
+						<div class="product-image">
+							<a href="stormy-seas.html"><img src="assets/img/products/Stormy Seas.jpg" alt=""></a>
+						</div>
+						<a href="stormy-seas.html"><h3>Stormy Seas</h3></a>
+						<p class="product-price">$7 - $20</p>
+						<a href="stormy-seas.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 			</div>
@@ -527,7 +486,7 @@
 			<div class="row">
 				<div class="col-lg-8 col-md-12">
 					<p>Copyrights &copy; 2023 - <a href="https://thelostchandlery.com/">The Lost Chandlery</a> - All Rights Reserved.<br>
-						Distributed By - <a href="https://themewagon.com/" target="blank">Themewagon</a>
+						Distributed By - <a href="https://themewagon.com/" target="_blank">Themewagon</a>
 					</p>
 				</div>
 				<div class="col-lg-4 text-right col-md-12">
