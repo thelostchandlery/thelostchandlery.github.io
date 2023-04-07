@@ -198,16 +198,6 @@
 						<a href="peach-nectar.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
-					<div class="single-product-item">
-						<div class="product-image">
-							<a href="lemon-zest.html"><img src="assets/img/products/Lemon Zest.jpg" alt=""></a>
-						</div>
-						<a href="lemon-zest.html"><h3>Lemon Zest</h3></a>
-						<p class="product-price">$7 - $20</p>
-						<a href="lemon-zest.html" class="boxed-btn">View Product</a>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>
