@@ -581,11 +581,11 @@
 							<option value="7oz Amber Jar">7oz Amber Jar $10.00 USD</option>
 							<option value="14oz Amber Jar">14oz Amber Jar $20.00 USD</option>
 						</select> </td></tr>
-						</table>
+						</table><!--
 						<input type="hidden" name="currency_code" value="USD"><br>
 						<input type="image" src="assets/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form></center>
+						</form></center> -->
 					</div>
 				</div>
 			</div>
