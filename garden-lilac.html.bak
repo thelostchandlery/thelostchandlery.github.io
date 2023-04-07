@@ -7,7 +7,7 @@
 	<meta name="description" content="Responsive Bootstrap4 Shop Template, Created by Imran Hossain from https://imransdesign.com/">
 
 	<!-- title -->
-	<title>The Lost Chandlery - Peach Nectar</title>
+	<title>The Lost Chandlery - Garden Lilac</title>
 
 	<!-- favicon -->
 	<link rel="shortcut icon" type="image/png" href="assets/img/icon.jpg">
@@ -109,27 +109,27 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="single-product-img">
-						<img src="assets/img/products/Peach Nectar.jpg" alt="">
+						<img src="assets/img/products/Garden Lilac.jpg" alt="">
 					</div><br>
 					<div class="single-product-img">
-						<img src="assets/img/products/Peach Nectar.jpg" alt="">
+						<img src="assets/img/products/Garden Lilac.jpg" alt="">
 					</div><br>
 					<div class="single-product-img">
-						<img src="assets/img/products/Peach Nectar.jpg" alt="">
+						<img src="assets/img/products/Garden Lilac.jpg" alt="">
 					</div><br>
 				</div>
 				<div class="col-md-8">
 					<div class="single-product-content">
-						<h3>Peach Nectar</h3>
+						<h3>Garden Lilac</h3>
 						<p class="single-product-pricing">$7 - $20</p>
-						<p>Juicy, rich, decadent peach with fresh green leaves. This fragrance will have you hankering for your favorite peach desserts. Enjoy this fresh and fruity scent in 3 different sized containers.</p>
+						<p>Are you in a field of lilacs in peak bloom? You are now when lighting this fragrance! A beautiful blend of lilac, honeysuckle, and green leaves to brighten your home! Enjoy this fresh and floral scent in 3 different sized containers.</p>
 						<div class="single-product-form">
-							<p><strong>Top Notes: </strong>Apple, Green Leaves</p>
-							<p><strong>Middle Notes: </strong>Peach</p>
-							<p><strong>Bottom Notes: </strong>Floral</p>
+							<p><strong>Top Notes: </strong>Green Leaves</p>
+							<p><strong>Middle Notes: </strong>Lilac, Lily of the Valley, Honeysuckle</p>
+							<p><strong>Bottom Notes: </strong>Powder, Amyris</p>
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="XB8UTXMC4YMM4">
+						<input type="hidden" name="hosted_button_id" value="PAGKYD3YMLRJG">
 						<table>
 						<tr><td><h5><input type="hidden" name="on0" value="Candle Size">Candle Size</h5></td></tr><tr><td><select name="os0">
 							<option value="4oz Gold Tin">4oz Gold Tin $7.00 USD</option>
@@ -162,7 +162,7 @@
 				<div class="col-lg-8 offset-lg-2 text-center">
 					<div class="section-title">	
 						<h3><span class="orange-text">Related</span> Products</h3>
-						<p>View other candles from the Fruit Grove Collection.</p>
+						<p>View other candles from the Conservatory Collection.</p>
 					</div>
 				</div>
 			</div>
@@ -170,31 +170,31 @@
 				<div class="col-lg-4 col-md-6 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="blood-orange.html"><img src="assets/img/products/Blood Orange.jpg" alt=""></a>
+							<a href="lavender-fields.html"><img src="assets/img/products/Lavender Fields.jpg" alt=""></a>
 						</div>
-						<a href="blood-orange.html"><h3>Blood Orange</h3></a>
+						<a href="lavender-fields.html"><h3>Lavender Fields</h3></a>
 						<p class="product-price">$7 - $20</p>
-						<a href="blood-orange.html" class="boxed-btn">View Product</a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 text-center">
-					<div class="single-product-item">
-						<div class="product-image">
-							<a href="dark-plum.html"><img src="assets/img/products/Dark Plum.jpg" alt=""></a>
-						</div>
-						<a href="dark-plum.html"><h3>Dark Plum</h3></a>
-						<p class="product-price">$7 - $20</p>
-						<a href="dark-plum.html" class="boxed-btn">View Product</a>
+						<a href="lavender-fields.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="lemon-zest.html"><img src="assets/img/products/Lemon Zest.jpg" alt=""></a>
+							<a href="plumeria-blossom.html"><img src="assets/img/products/Plumeria Blossom.jpg" alt=""></a>
 						</div>
-						<a href="lemon-zest.html"><h3>Lemon Zest</h3></a>
+						<a href="plumeria-blossom.html"><h3>Plumeria Blossom</h3></a>
 						<p class="product-price">$7 - $20</p>
-						<a href="lemon-zest.html" class="boxed-btn">View Product</a>
+						<a href="plumeria-blossom.html" class="boxed-btn">View Product</a>
+					</div>
+				</div>
+								<div class="col-lg-4 col-md-6 text-center">
+					<div class="single-product-item">
+						<div class="product-image">
+							<a href="white-orchid.html"><img src="assets/img/products/White Orchid.jpg" alt=""></a>
+						</div>
+						<a href="white-orchid.html"><h3>White Orchid</h3></a>
+						<p class="product-price">$7 - $20</p>
+						<a href="white-orchid.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 			</div>

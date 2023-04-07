@@ -7,7 +7,7 @@
 	<meta name="description" content="Responsive Bootstrap4 Shop Template, Created by Imran Hossain from https://imransdesign.com/">
 
 	<!-- title -->
-	<title>The Lost Chandlery - Peach Nectar</title>
+	<title>The Lost Chandlery - Strawberry Shortcake</title>
 
 	<!-- favicon -->
 	<link rel="shortcut icon" type="image/png" href="assets/img/icon.jpg">
@@ -109,27 +109,27 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="single-product-img">
-						<img src="assets/img/products/Peach Nectar.jpg" alt="">
+						<img src="assets/img/products/Strawberry Shortcake.jpg" alt="">
 					</div><br>
 					<div class="single-product-img">
-						<img src="assets/img/products/Peach Nectar.jpg" alt="">
+						<img src="assets/img/products/Strawberry Shortcake.jpg" alt="">
 					</div><br>
 					<div class="single-product-img">
-						<img src="assets/img/products/Peach Nectar.jpg" alt="">
+						<img src="assets/img/products/Strawberry Shortcake.jpg" alt="">
 					</div><br>
 				</div>
 				<div class="col-md-8">
 					<div class="single-product-content">
-						<h3>Peach Nectar</h3>
+						<h3>Strawberry Shortcake</h3>
 						<p class="single-product-pricing">$7 - $20</p>
-						<p>Juicy, rich, decadent peach with fresh green leaves. This fragrance will have you hankering for your favorite peach desserts. Enjoy this fresh and fruity scent in 3 different sized containers.</p>
+						<p>Inspired by the mouthwatering fragrance of a freshly baked strawberry shortcake. This scent is a delicious blend of strawberries, cream, and vanilla. Enjoy this warm and welcoming scent in 3 different sized containers.</p>
 						<div class="single-product-form">
-							<p><strong>Top Notes: </strong>Apple, Green Leaves</p>
-							<p><strong>Middle Notes: </strong>Peach</p>
-							<p><strong>Bottom Notes: </strong>Floral</p>
+							<p><strong>Top Notes: </strong>Strawberry, Lemon Peel, Orange Peel</p>
+							<p><strong>Middle Notes: </strong>Strawberry</p>
+							<p><strong>Bottom Notes: </strong>Graham Cracker, Vanilla, Cream, Sugar</p>
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="XB8UTXMC4YMM4">
+						<input type="hidden" name="hosted_button_id" value="MDCAQNRS6YHH4">
 						<table>
 						<tr><td><h5><input type="hidden" name="on0" value="Candle Size">Candle Size</h5></td></tr><tr><td><select name="os0">
 							<option value="4oz Gold Tin">4oz Gold Tin $7.00 USD</option>
@@ -162,39 +162,39 @@
 				<div class="col-lg-8 offset-lg-2 text-center">
 					<div class="section-title">	
 						<h3><span class="orange-text">Related</span> Products</h3>
-						<p>View other candles from the Fruit Grove Collection.</p>
+						<p>View other candles from the Patisserie Collection.</p>
 					</div>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-4 col-md-6 text-center">
+			<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="blood-orange.html"><img src="assets/img/products/Blood Orange.jpg" alt=""></a>
+							<a href="banana-nut-bread.html"><img src="assets/img/products/Banana Nut Bread.jpg" alt=""></a>
 						</div>
-						<a href="blood-orange.html"><h3>Blood Orange</h3></a>
-						<p class="product-price">$7 - $20</p>
-						<a href="blood-orange.html" class="boxed-btn">View Product</a>
+						<a href="banana-nut-bread.html"><h3>Banana Nut Bread</h3></a>
+						<p class="product-price">$6 - $20</p>
+						<a href="banana-nut-bread.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="dark-plum.html"><img src="assets/img/products/Dark Plum.jpg" alt=""></a>
+							<a href="blueberry-pancakes.html"><img src="assets/img/products/Blueberry Pancakes.jpg" alt=""></a>
 						</div>
-						<a href="dark-plum.html"><h3>Dark Plum</h3></a>
-						<p class="product-price">$7 - $20</p>
-						<a href="dark-plum.html" class="boxed-btn">View Product</a>
+						<a href="blueberry-pancakes.html"><h3>Blueberry Pancakes</h3></a>
+						<p class="product-price">$6 - $20</p>
+						<a href="blueberry-pancakes.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
+				<div class="col-lg-4 col-md-6 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="lemon-zest.html"><img src="assets/img/products/Lemon Zest.jpg" alt=""></a>
+							<a href="lemon-pound-cake.html"><img src="assets/img/products/Lemon Pound Cake.jpg" alt=""></a>
 						</div>
-						<a href="lemon-zest.html"><h3>Lemon Zest</h3></a>
-						<p class="product-price">$7 - $20</p>
-						<a href="lemon-zest.html" class="boxed-btn">View Product</a>
+						<a href="lemon-pound-cake.html"><h3>Lemon Pound Cake</h3></a>
+						<p class="product-price">$6 - $20</p>
+						<a href="lemon-pound-cake.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 			</div>
