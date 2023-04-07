@@ -190,11 +190,11 @@
 				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="smoked-oud.html"><img src="assets/img/products/Smoked Oud.jpg" alt=""></a>
+							<a href="roasted-coffee.html"><img src="assets/img/products/Roasted Coffee.jpg" alt=""></a>
 						</div>
-						<a href="smoked-oud.html"><h3>Smoked Oud</h3></a>
+						<a href="roasted-coffee.html"><h3>Roasted Coffee</h3></a>
 						<p class="product-price">$7 - $20</p>
-						<a href="smoked-oud.html" class="boxed-btn">View Product</a>
+						<a href="roasted-coffee.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 			</div>

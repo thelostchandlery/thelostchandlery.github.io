@@ -173,28 +173,28 @@
 							<a href="garden-lilac.html"><img src="assets/img/products/Garden Lilac.jpg" alt=""></a>
 						</div>
 						<a href="garden-lilac.html"><h3>Garden Lilac</h3></a>
-						<p class="product-price">$6 - $20</p>
+						<p class="product-price">$7 - $20</p>
 						<a href="garden-lilac.html" class="boxed-btn">View Product</a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 text-center">
-					<div class="single-product-item">
-						<div class="product-image">
-							<a href="sea-salt-orchid.html"><img src="assets/img/products/Sea Salt & Orchid.jpg" alt=""></a>
-						</div>
-						<a href="sea-salt-orchid.html"><h3>Sea Salt & Orchid</h3></a>
-						<p class="product-price">$6 - $20</p>
-						<a href="sea-salt-orchid.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="seaside-plumeria.html"><img src="assets/img/products/Seaside Plumeria.jpg" alt=""></a>
+							<a href="plumeria-blossom.html"><img src="assets/img/products/Plumeria Blossom.jpg" alt=""></a>
 						</div>
-						<a href="seaside-plumeria.html"><h3>Seaside Plumeria</h3></a>
-						<p class="product-price">$6 - $20</p>
-						<a href="seaside-plumeria.html" class="boxed-btn">View Product</a>
+						<a href="plumeria-blossom.html"><h3>Plumeria Blossom</h3></a>
+						<p class="product-price">$7 - $20</p>
+						<a href="plumeria-blossom.html" class="boxed-btn">View Product</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 text-center">
+					<div class="single-product-item">
+						<div class="product-image">
+							<a href="white-orchid.html"><img src="assets/img/products/White Orchid.jpg" alt=""></a>
+						</div>
+						<a href="white-orchid.html"><h3>White Orchid</h3></a>
+						<p class="product-price">$7 - $20</p>
+						<a href="white-orchid.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 			</div>

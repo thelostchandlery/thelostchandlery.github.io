@@ -7,7 +7,7 @@
 	<meta name="description" content="Responsive Bootstrap4 Shop Template, Created by Imran Hossain from https://imransdesign.com/">
 
 	<!-- title -->
-	<title>The Lost Chandlery - Roasted Coffee</title>
+	<title>The Lost Chandlery - Variety Pack</title>
 
 	<!-- favicon -->
 	<link rel="shortcut icon" type="image/png" href="assets/img/icon.jpg">
@@ -107,40 +107,37 @@
 	<div class="single-product mt-150 mb-150">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
+				<div class="col-md-5">
 					<div class="single-product-img">
-						<img src="assets/img/products/Roasted Coffee.jpg" alt="">
+						<img src="assets/img/products/Variety Pack.jpg" alt="">
 					</div><br>
 					<div class="single-product-img">
-						<img src="assets/img/products/Roasted Coffee.jpg" alt="">
+						<img src="assets/img/products/Variety Pack.jpg" alt="">
 					</div><br>
 					<div class="single-product-img">
-						<img src="assets/img/products/Roasted Coffee.jpg" alt="">
+						<img src="assets/img/products/Variety Pack.jpg" alt="">
 					</div><br>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-7">
 					<div class="single-product-content">
-						<h3>Roasted Coffee</h3>
-						<p class="single-product-pricing">$7 - $20</p>
-						<p>Wonderfully blended aromas featuring roasted coffee and baked pastries to accompany a good book. Grab a drink, take a seat, and relax with this refreshing scent. Available in 3 different sized containers!</p>
+						<h3>Variety Pack</h3>
+						<p class="single-product-pricing">$25.00</p>
+						<p>The variety pack contains four 4oz gold candle tins and is the perfect way to get a sample of the fragrances we have to offer! It also makes a great gift! Choose any four scents from the lists below and type them into the comment box! The variety pack comes packaged in a kraft box with colorful crinkle paper, twine, and sealed with our custom wax stamp! Give these as a gift or keep them for yourself!</p>
 						<div class="single-product-form">
-							<p><strong>Top Notes: </strong>Coffee, Butter</p>
-							<p><strong>Middle Notes: </strong>Tonka</p>
-							<p><strong>Bottom Notes: </strong>Vanilla, Maple</p>
+							<p><strong>Bookshop Collection: </strong>Antique Books, Fireside Embers, Roasted Coffee, Tobacco & Teakwood</p>
+							<p><strong>Conservatory Collection: </strong>Garden Lilac, Lavender Fields, Plumeria Blossom, White Orchid</p>
+							<p><strong>Fruit Grove Collection: </strong>Blood Orange, Dark Plum, Lemon Zest, Peach Nectar</p>
+							<p><strong>Patisserie Collection: </strong>Banana Nut Bread, Blueberry Pancakes, Lemon Pound Cake, Strawberry Shortcake</p>
+							<p><strong>Seaside Collection: </strong>Coastal Cliffs, Hidden Caverns, Salty Breeze, Stormy Seas</p>
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="AJ4K7THNY24ZA">
+						<input type="hidden" name="hosted_button_id" value="5C338KABJBKRY">
 						<table>
-						<tr><td><h5><input type="hidden" name="on0" value="Candle Size">Candle Size</h5></td></tr><tr><td><select name="os0">
-							<option value="4oz Gold Tin">4oz Gold Tin $7.00 USD</option>
-							<option value="7oz Amber Jar">7oz Amber Jar $10.00 USD</option>
-							<option value="14oz Amber Jar">14oz Amber Jar $20.00 USD</option>
-						</select> </td></tr>
+						<tr><td><h5><input type="hidden" name="on0" value="Choose 4 Scents">Choose 4 Scents</h5></td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
 						</table><!--
-						<input type="hidden" name="currency_code" value="USD"><br>
 						<input type="image" src="assets/img/add-to-cart.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form> -->
+						</form>
 						</div>
 						<h4>Share:</h4>
 						<ul class="product-share">
@@ -161,13 +158,13 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2 text-center">
 					<div class="section-title">	
-						<h3><span class="orange-text">Related</span> Products</h3>
-						<p>View other candles from the Bookshop Collection.</p>
+						<h3><span class="orange-text">Best</span> Sellers</h3>
+						<p>Can't decide? Here are some fan favorites!</p>
 					</div>
 				</div>
 			</div>
 			<div class="row">
-			<div class="col-lg-4 col-md-6 text-center">
+				<div class="col-lg-4 col-md-6 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
 							<a href="antique-books.html"><img src="assets/img/products/Antique Books.jpg" alt=""></a>
@@ -177,24 +174,24 @@
 						<a href="antique-books.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6 text-center">
-					<div class="single-product-item">
-						<div class="product-image">
-							<a href="fireside-embers.html"><img src="assets/img/products/Fireside Embers.jpg" alt=""></a>
-						</div>
-						<a href="fireside-embers.html"><h3>Fireside Embers</h3></a>
-						<p class="product-price">$7 - $20</p>
-						<a href="fireside-embers.html" class="boxed-btn">View Product</a>
-					</div>
-				</div>
 				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="tobacco-teakwood.html"><img src="assets/img/products/Tobacco & Teakwood.jpg" alt=""></a>
+							<a href="lemon-pound-cake.html"><img src="assets/img/products/Lemon Pound Cake.jpg" alt=""></a>
 						</div>
-						<a href="tobacco-teakwood.html"><h3>Tobacco & Teakwood</h3></a>
+						<a href="lemon-pound-cake.html"><h3>Lemon Pound Cake</h3></a>
 						<p class="product-price">$7 - $20</p>
-						<a href="tobacco-teakwood.html" class="boxed-btn">View Product</a>
+						<a href="lemon-pound-cake.html" class="boxed-btn">View Product</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 text-center">
+					<div class="single-product-item">
+						<div class="product-image">
+							<a href="stormy-seas.html"><img src="assets/img/products/Stormy Seas.jpg" alt=""></a>
+						</div>
+						<a href="stormy-seas.html"><h3>Stormy Seas</h3></a>
+						<p class="product-price">$7 - $20</p>
+						<a href="stormy-seas.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 			</div>
@@ -209,19 +206,19 @@
 				<div class="col-lg-12">
 					<div class="logo-carousel-inner">
 						<div class="single-logo-item">
-							<img src="assets/img/company-logos/5.jpg" alt="">
+							<img src="assets/img/5.jpg" alt="">
 						</div>
 						<div class="single-logo-item">
-							<img src="assets/img/company-logos/6.jpg" alt="">
+							<img src="assets/img/6.jpg" alt="">
 						</div>
 						<div class="single-logo-item">
-							<img src="assets/img/company-logos/countdown.jpg" alt="">
+							<img src="assets/img/countdown.jpg" alt="">
 						</div>
 						<div class="single-logo-item">
-							<img src="assets/img/company-logos/slide_07.jpg" alt="">
+							<img src="assets/img/slide_07.jpg" alt="">
 						</div>
 						<div class="single-logo-item">
-							<img src="assets/img/company-logos/5.jpg" alt="">
+							<img src="assets/img/5.jpg" alt="">
 						</div>
 					</div>
 				</div>
@@ -230,6 +227,40 @@
 	</div>
 	<!-- end logo carousel -->
 
+		<!-- footer -->
+	<div class="footer-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-5 col-md-6">
+					<div class="footer-box about-widget">
+						<h2 class="widget-title">Refunds & Returns Policy</h2>
+						<p>We strive to provide the best products for our customers. At this time, returns are not accepted. However, if your product arrives damaged or broken, please email us with photographic evidence and we would be happy to provide a refund or replacement product.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-6">
+					<div class="footer-box get-in-touch">
+						<h2 class="widget-title">Get in Touch</h2>
+						<ul>
+							<li><a href="mailto:thelostchandlery@gmail.com">TheLostChandlery@gmail.com</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-6">
+					<div class="footer-box pages">
+						<h2 class="widget-title">Pages</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="shop.html">Shop</a></li>
+							<li><a href="markets.html">Markets</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end footer -->
 	
 	<!-- copyright -->
 	<div class="copyright">

@@ -190,11 +190,11 @@
 				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="sea-salt-orchid.html"><img src="assets/img/products/Sea Salt & Orchid.jpg" alt=""></a>
+							<a href="white-orchid.html"><img src="assets/img/products/White Orchid.jpg" alt=""></a>
 						</div>
-						<a href="sea-salt-orchid.html"><h3>Sea Salt & Orchid</h3></a>
+						<a href="white-orchid.html"><h3>White Orchid</h3></a>
 						<p class="product-price">$7 - $20</p>
-						<a href="sea-salt-orchid.html" class="boxed-btn">View Product</a>
+						<a href="white-orchid.html" class="boxed-btn">View Product</a>
 					</div>
 				</div>
 			</div>
