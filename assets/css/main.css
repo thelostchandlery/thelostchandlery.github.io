@@ -854,9 +854,9 @@ a.mobile-show {
 }
 
 .footer-area {
-  background-color: #031b28;
+  background-color: #8c0e0f;
   color: #d4af37;
-  padding: 150px 0;
+  padding: 30px 0;  border-top: 3px solid #d4af37;
 }
 
 h2.widget-title {
@@ -879,8 +879,7 @@ h2.widget-title:after {
 
 .footer-box p {
   color: #d4af37;
-  opacity: 0.7;
-  line-height: 1.8;  font-size: 16px;
+  line-height: 1.4;  font-size: 20px;
 }
 
 .footer-box ul {
@@ -890,9 +889,8 @@ h2.widget-title:after {
 }
 
 .footer-box ul li {
-  opacity: 0.7;
   margin-bottom: 10px;
-  line-height: 1.8;
+  line-height: 1.4;
 }
 
 .footer-box ul li:last-child {
@@ -932,7 +930,6 @@ h2.widget-title:after {
 .copyright p {
   margin: 0;
   color: #d4af37;
-  opacity: 0.7;
   padding: 16px 0;
   font-size: 20px;
 }
@@ -959,13 +956,12 @@ h2.widget-title:after {
 .social-icons ul li a {
   font-size: 30px;
   color: #d4af37;
-  opacity: 0.7;
   padding: 16px 10px;
   display: block;
 }
 
 .footer-box ul li a {
-  color: #fff;
+  color: #d4af37;
 }
 
 .footer-box.pages ul li {
@@ -980,7 +976,7 @@ h2.widget-title:after {
   content: "\f105";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  color: #F28123;
+  color: #0b2838;
 }
 
 /* -----------------------------------------------------------------------------
@@ -1112,8 +1108,8 @@ a.tof-btn:hover i {
 }
 
 .footer-box.pages ul li:hover a {
-  color: #8c0e0f;
-}
+  color: #0b2838;
+ }    .footer-box ul li:hover a {  color: #0b2838;}
 
 .footer-box.subscribe form button {
   -webkit-transition: 0.3s;

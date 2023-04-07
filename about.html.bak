@@ -338,7 +338,7 @@
 			</div>
 		</div>
 	</div>
-	 end testimonail-section --><br><br>
+	 end testimonail-section -->
 
 	<!-- logo carousel -->
 	<div class="logo-carousel-section">
@@ -368,6 +368,40 @@
 	</div>
 	<!-- end logo carousel -->
 
+		<!-- footer -->
+	<div class="footer-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-5 col-md-6">
+					<div class="footer-box about-widget">
+						<h2 class="widget-title">Refunds & Returns Policy</h2>
+						<p>We strive to provide the best products for our customers. At this time, returns are not accepted. However, if your product arrives damaged or broken, please email us with photographic evidence and we would be happy to provide a refund or replacement product.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-6">
+					<div class="footer-box get-in-touch">
+						<h2 class="widget-title">Get in Touch</h2>
+						<ul>
+							<li>thelostchandlery@gmail.com</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-6">
+					<div class="footer-box pages">
+						<h2 class="widget-title">Pages</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="shop.html">Shop</a></li>
+							<li><a href="markets.html">Markets</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end footer -->
 	
 	<!-- copyright -->
 	<div class="copyright">
